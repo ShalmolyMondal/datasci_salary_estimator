@@ -29,6 +29,7 @@ https://github.com/arapfaik/scraping-glassdoor-selenium
 
 - Created pivot tables
 - Looked at various categorical data and plotted bar charts of categorical variables
+- Compared average salaries based on job-title and position
 - Some highlights from the analysis
 
 <p float="left">
@@ -42,7 +43,7 @@ https://github.com/arapfaik/scraping-glassdoor-selenium
 ## Model Building
 
 - The data was trained on three models: **OLS Regression Model**, **Lasso Regression Model**, and **Random Forest**.
-- The data was split using an 80-20 split
+- The dataset underwent an 80-20 split.
 
 ### OLS Regression Model
 
