@@ -13,8 +13,11 @@
 - Looked at various categorical data and plotted bar charts of categorical variables
 - Some highlights from the analysis
 
-![Bicycle Lane Detection](Visualizations/avg_sal_hist.png)
-![Bicycle Lane Detection](Visualizations/avg_sal_title.png)
+<p float="left">
+  <img src="Visualizations/avg_sal_hist.png" width="300" />
+  <img src="Visualizations/avg_sal_title.png" width="300" /> 
+</p>
+
 
 ## Resources
 
