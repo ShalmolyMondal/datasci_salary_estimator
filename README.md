@@ -60,3 +60,5 @@ https://github.com/arapfaik/scraping-glassdoor-selenium
   <img src="Visualizations/MAE.png" width="300" />
   <img src="Visualizations/MAE_Table.png" width="300" />     
 </p>
+
+- Random Forest gave the min MAE indicating better performance than OLS and Lasso Regression Models
