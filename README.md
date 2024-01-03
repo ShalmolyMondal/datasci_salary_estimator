@@ -5,11 +5,10 @@
 - [Resources](#resources) 
 - [Dataset](#dataset)  
   - [Data Collection](#data-collection)
-  - [Data Cleaing](#data-cleaning)
+  - [Data Cleaning](#data-cleaning)
 - [EDA](#eda)
 - [Model Training](#training)
 - [Model Evaluation](#model-evaluation)
-
 
 
 ## Resources
@@ -49,9 +48,9 @@ https://github.com/arapfaik/scraping-glassdoor-selenium
 
 * **OLS regression** is a linear modeling technique used for predicting a continuous target variable. In our case, it was applied to estimate the salary of a data scientist based on various features.
 
-* **Lasso Regression** is a linear regression model with L1 regularization. It is useful for feature selection and regularization, potentially improving model interpretability. This was used since our EDA high correlation between the features.
+* **Lasso Regression** is a linear regression model with L1 regularization. It is useful for feature selection and regularization, potentially improving model interpretability. This was used since our EDA showed high correlation between the features.
 
-* **Random Forest** is used as an ensemble learning technique that builds a multitude of decision trees and merges them for more robust and accurate predictions. Parameter tuning was achieved using Grod Search.
+* **Random Forest** is efficient in handling non-linear relationships and performs well for salary prediction. Parameter tuning was achieved using Grod Search.
 
 ## Model Validation
 
