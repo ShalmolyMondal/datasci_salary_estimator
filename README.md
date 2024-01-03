@@ -19,7 +19,7 @@
   <img src="Visualizations/avg_sal_title_pos.png" width="300" />   
 </p>
 
-<img src="Visualizations/countplot_ind.png" width="300" /> 
+![Image](Visualizations/countplot_ind.png)
 
 ## Resources
 
