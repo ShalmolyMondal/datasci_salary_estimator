@@ -16,7 +16,7 @@
 <p float="left">
   <img src="Visualizations/avg_sal_hist.png" width="300" />
   <img src="Visualizations/avg_sal_title.png" width="300" />   
-  <img src="Visualizations/avg_sal_title_pos.png" width="300" />   
+  <img src="Visualizations/avg_sal_title_pos.png" width="300" height="300" />   
 </p>
 
 ![Image](Visualizations/countplot_ind.png)
