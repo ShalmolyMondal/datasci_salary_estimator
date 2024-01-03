@@ -1,5 +1,24 @@
 # Data Science Salary Estimator
 
+## Table of Contents
+
+- [Resources](#resources) 
+- [Dataset](#dataset)  
+  - [Data Collection](#data-collection)
+  - [Data Cleaing](#data-cleaning)
+- [EDA](#eda)
+- [Model Training](#training)
+- [Model Evaluation](#model-evaluation)
+
+
+
+## Resources
+
+Scraper Github: https://github.com/arapfaik/scraping-glassdoor-selenium
+
+## Data Collection
+https://github.com/arapfaik/scraping-glassdoor-selenium
+
 ## Data Cleaning
 
 - Parsing Salary Data
@@ -30,7 +49,7 @@
 
 * **OLS regression** is a linear modeling technique used for predicting a continuous target variable. In our case, it was applied to estimate the salary of a data scientist based on various features.
 
-* **Lasso Regression** is a linear regression model with L1 regularization. It is useful for feature selection and regularization, potentially improving model interpretability. This was used since our EDA high co-relation between the features.
+* **Lasso Regression** is a linear regression model with L1 regularization. It is useful for feature selection and regularization, potentially improving model interpretability. This was used since our EDA high correlation between the features.
 
 * **Random Forest** is used as an ensemble learning technique that builds a multitude of decision trees and merges them for more robust and accurate predictions. Parameter tuning was achieved using Grod Search.
 
@@ -44,8 +63,5 @@
 </p>
 
 
-## Resources
-
-Scraper Github: https://github.com/arapfaik/scraping-glassdoor-selenium
 
 
